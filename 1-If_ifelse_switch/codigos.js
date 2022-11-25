@@ -121,8 +121,8 @@ switch(nombre){
         alert("Hola sensei Jesua!")
         break;
     case "Alejandro":
-        console.log("Sigue practicando Alejandro! También lee mucho n.n")
-        alert("Sigue practicando Alejandro! También lee mucho n.n")
+        console.log("Sigue practicando Alejandro! También lee mucho n.n y no desespereis si no comprendes enseguida")
+        alert("Sigue practicando Alejandro! También lee mucho n.n y no desespereis si no comprendes enseguida")
         break;
     case "Viridiana":
         console.log("Sigue jugando para aprender Viri!")
@@ -132,4 +132,18 @@ switch(nombre){
         console.log("Que bonito que vas adelantando a los temas para entender mejor")
         alert("Que bonito que vas adelantando a los temas para entender mejor")
         break;
+    case "Adolfo":
+        console.log("No desespereis pequeño Padawan. La práctica hace al sensei")
+        alert("No desespereis pequeño Padawan. La práctica hace al sensei")
+        break;
+    default:
+        console.log("Que cool que practican!!! Equivoquense mil veces y la milesima primera vez será un acierto. PD. perdon si no están aquí me confundo con sus nombres")
+        alert("Que cool que practican!!! Equivoquense mil veces y la milesima primera vez será un acierto. PD. perdon si no están aquí me confundo con sus nombres")
+        break;
 }
+
+/**
+ * 
+        console.log("")
+        alert("")
+ */
