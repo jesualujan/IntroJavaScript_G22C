@@ -1,0 +1,61 @@
+1.- Crear una comparación que me permita saber si es mayor de edad
+    o no según la fecha de nacimiento
+Parámetros:
+ - fecha: fecha de nacimiento en un arreglo con el formato [día, mes, año]
+
+2.- Crear un contador con un valor de inicio distinto a cero y definido por el usuario
+Parámetros de la función:
+  inicio: el valor de inicio del ciclo contador
+  maximo: el valor límite del ciclo
+
+3.- Crear un contador con un valor de inicio distinto a cero y definido por el usuario.
+Así como con un valor de aumento de la variable de control definido por el usuario
+Parámetros de la función:
+ - inicio: el valor de inicio del ciclo contador
+ - maximo: el valor límite del ciclo
+ - aumento: el valor de aumento de cada iteración
+ 
+4.- Crear un contador que te muestre cuantas veces se repite la palabra en un texto
+Parámetros de la función:
+ - palabra: la palabra donde se buscará en el texto
+ - texto: un texto de varios simbolos alfanumericos
+ 
+ Ejemplo:
+ palabra: pato
+ texto: akspatomdcl efxqiucwpatoneoqxwoeqxmqiu iuwehiqx pato
+ Resultado: Contó 3 palabras pato
+
+ 
+5.- Imprime un cuadrado con el centro vacío
+Parámetros:
+ - lado: número entero que representa el ancho del cuadrado
+Ejemplo
+lado: 5
+*****
+*   *
+*   *
+*   *
+*****
+
+6.- Comparar si de los siguientes datos existe una persona con alguna
+    profesion y nombres específicos
+    let personas = [
+        ["Juan","Estudiante"], 
+		["Carlos", "Profesor"], 
+		["Jerico", "Cocinero"],
+		["María", "Cantante"],
+		["Pedro", "Profesor"]]
+Parámetros: 
+ - profesion: palabra que indica la profesion a buscar
+ - nombre: palabra que indica el nombre a buscar
+Ejemplo
+nombre: "Carlos"
+profesion: "Policia"
+Resultado: No existe la persona
+
+nombre: "María"
+profesion: "Cantante"
+Resultado: Existe la persona en el indice 3
+
+
+
